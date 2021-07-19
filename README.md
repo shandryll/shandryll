@@ -19,7 +19,7 @@
 
 ## 📞 Contact
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="40" style="max-width:100%"/>](https://www.linkedin.com/in/shandryll-st%C3%A9phano-1ba51b158/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank" height="40" style="max-width:100%"/>](https://www.linkedin.com/in/shandryll-st%C3%A9phano-1ba51b158/)
 
 ## 🧠 Github Stats
 <p>
