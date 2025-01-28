@@ -2,7 +2,7 @@
 
 ### 📍 I live in Brazil :brazil:
 
-- 📚 Postgraduate degree in progress in Full-Stack specialization at rocketseat college of technology.
+- 📚 Postgraduate degree in progress in Full-Stack specialization at Rocketseat College of Technology.
 - 📚 Graduated in Computer Scientist at the Centro Universitário de Belo Horizonte - UNIBH.
 
 ## 💻 Hard Skills
