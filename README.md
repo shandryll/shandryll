@@ -2,7 +2,7 @@
 
 ### 📍 I live in Brazil :brazil:
 
-- 📚 Post graduation in progress in Data Science at Descomplica Faculdade Digital.
+- 📚 Postgraduate degree in progress in Full-Stack specialization at rocketseat college of technology.
 - 📚 Graduated in Computer Scientist at the Centro Universitário de Belo Horizonte - UNIBH.
 
 ## 💻 Hard Skills
